@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "question":"Where is Uzbekistan?",
+        "ans": "In centeral Asia"
+    },
+    {
+        "id":2,
+        "question":"Who is the first president of Uzbekistan?",
+        "ans": "After Uzbekistan declared independence from the Soviet Union in 1991, an election was held, and Islam Karimov was elected as the first President of Uzbekistan on 29 December 1991."
+    },
+    {
+        "id":3,
+        "question":"Who conquered the kingdom of Timurids?",
+        "ans": "Temuriylar sulolasi hududlari 16-asrda oʻzbek shayboniylari tomonidan bosib olinib , hokimiyat markazi Buxoroga koʻchiriladi"
+    },
+    {
+        "id":4,
+        "question":"Is Uzbekistan cheap?",
+        "ans": "If you’re contemplating a visit to this country, you might be wondering how much money you’ll need to travel to Uzbekistan. While Uzbekistan is one of Central Asia’s most expensive countries, it’s still a very affordable destination."
+    },
+    {
+        "id":5,
+        "question":"Is Uzbekistan safe?",
+        "ans": "Actually, all five countries in Central Asia – Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan – were placed in Level 1 countries by the US Department of State, meaning they are among the safest countries in the world to travel to"
+    }
+]
